@@ -1,6 +1,6 @@
 float amp = 50;
 float freq = 20;
-int time = 1234;
+int time = 10000;
 
 
 //the function that gets called at the very first frame
